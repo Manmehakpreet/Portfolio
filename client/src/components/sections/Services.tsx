@@ -8,7 +8,7 @@ export function Services() {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold font-heading mb-4">What I Build</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Specialized engineering services for modern enterprise needs.
+            Core competencies across the full software development lifecycle.
           </p>
         </div>
 

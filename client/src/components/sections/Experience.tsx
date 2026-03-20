@@ -9,7 +9,7 @@ export function Experience() {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold font-heading mb-4">Professional Journey</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Delivering impact across financial and enterprise domains.
+            Building enterprise-grade applications with .NET Core, Angular, and Azure.
           </p>
         </div>
 

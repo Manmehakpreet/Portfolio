@@ -45,7 +45,7 @@ export function Contact() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold font-heading mb-4">Get In Touch</h2>
           <p className="text-muted-foreground">
-            Available for consulting and senior engineering roles.
+            Available for full-stack development opportunities and contract engagements.
           </p>
         </div>
 
