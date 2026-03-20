@@ -4,11 +4,12 @@ import { motion } from "framer-motion";
 
 export function Skills() {
   const categories = [
-    { name: "Backend", skills: CONFIG.skills.backend, color: "bg-blue-500/10 text-blue-500 border-blue-500/20" },
+    { name: "Languages", skills: CONFIG.skills.languages, color: "bg-rose-500/10 text-rose-500 border-rose-500/20" },
     { name: "Frontend", skills: CONFIG.skills.frontend, color: "bg-teal-500/10 text-teal-500 border-teal-500/20" },
-    { name: "Database", skills: CONFIG.skills.database, color: "bg-amber-500/10 text-amber-500 border-amber-500/20" },
+    { name: "Backend", skills: CONFIG.skills.backend, color: "bg-blue-500/10 text-blue-500 border-blue-500/20" },
+    { name: "Databases", skills: CONFIG.skills.database, color: "bg-amber-500/10 text-amber-500 border-amber-500/20" },
     { name: "Cloud & DevOps", skills: CONFIG.skills.cloud, color: "bg-purple-500/10 text-purple-500 border-purple-500/20" },
-    { name: "Testing", skills: CONFIG.skills.testing, color: "bg-rose-500/10 text-rose-500 border-rose-500/20" },
+    { name: "Tools & Integrations", skills: CONFIG.skills.tools, color: "bg-cyan-500/10 text-cyan-500 border-cyan-500/20" },
   ];
 
   return (

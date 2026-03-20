@@ -27,13 +27,13 @@ export function Hero() {
           >
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary border border-primary/20 text-sm font-medium mb-6">
               <Terminal className="w-4 h-4" />
-              <span>Full-Stack Architecture • .NET & Angular</span>
+              <span>Full-Stack Development • .NET Core & Angular</span>
             </div>
-            
+
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold font-heading mb-6 tracking-tight">
-              Building Scalable <br/>
+              Building Enterprise <br/>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-cyan-400">
-                Enterprise Solutions
+                Applications
               </span>
             </h1>
             
