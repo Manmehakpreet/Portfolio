@@ -22,16 +22,16 @@ export const CONFIG = {
     bio: "Full-stack software developer with 2.5+ years of experience building enterprise-grade applications across Angular, .NET Core, SQL Server, and Microsoft Azure. Proven track record in designing secure API integrations, hardening data pipelines, and automating business-critical financial workflows.",
     socials: {
       github: "https://github.com/manmehakpreet",
-      linkedin: "https://linkedin.com/in/manmehakpreetsingh",
+      linkedin: "https://www.linkedin.com/in/manmehakpreet-singh/",
     }
   },
   skills: {
-    languages: ["C#", "TypeScript", "JavaScript", "SQL / T-SQL", "Java", "C", "C++", "PL/SQL", "PowerShell"],
+    languages: ["C#", "TypeScript", "JavaScript", "C", "C++", "PL/SQL"],
     frontend: ["Angular", "React", "HTML5", "CSS3", "AG-Grid", "ng-bootstrap"],
     backend: ["ASP.NET Core", ".NET Core", "REST API Development", "Entity Framework Core", "Azure Functions"],
-    database: ["SQL Server", "MySQL", "SQLite", "MongoDB", "Stored Procedures", "Query Optimization", "Schema Design"],
+    database: [ "MySQL", "SQLite", "MongoDB", "Stored Procedures", "Query Optimization", "Schema Design"],
     cloud: ["Microsoft Azure", "Azure Functions", "Azurite", "CI/CD Pipelines", "Git / GitHub"],
-    tools: ["Postman", "GemBox", "Figma", "Active Directory", "OAuth", "FreshBooks API", "QuickBooks Online", "FactSet API"],
+    tools: ["Postman", "GemBox", "Figma", "Active Directory", "OAuth", "FreshBooks API", "FactSet API"],
   },
   experience: [
     {
@@ -65,7 +65,7 @@ export const CONFIG = {
     {
       degree: "Bachelor of Computer Science",
       institution: "Seneca Polytechnic",
-      period: "January 2025 - Present",
+      period: "September 2025 - Present",
       status: "In Progress",
       coursework: [
         "Discrete Mathematics",
@@ -149,7 +149,7 @@ export const CONFIG = {
       shortDescription: "Secure API-based utility for cloning critical FreshBooks data between environments for integration testing.",
       fullDescription: "Designed a secure API-based utility for cloning critical FreshBooks data (projects, clients, time-tracking) between environments, enabling reliable integration testing without production exposure. Structured around OAuth credential management and entity-level replication.",
       tags: ["C#", ".NET", "OAuth", "FreshBooks API", "Azure Functions"],
-      image: "https://images.unsplash.com/photo-1558494949-efc02570fbc9?q=80&w=2070&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2070&auto=format&fit=crop",
       techStack: ["C#", ".NET Core", "OAuth", "FreshBooks API", "Azure Functions"],
       features: [
         "Secure OAuth credential management",
